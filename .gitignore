@@ -1,3 +1,4 @@
-*.pdf
+/tut09a.pdf
 /.~lock.FE.docx#
 /FE.docx
+*.pyc
